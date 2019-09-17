@@ -1,0 +1,17 @@
+body
+{ font-family: 'Crimson Text', serif;
+    background-color: #21b4e2;
+
+}
+.skill {
+    color: lightsalmon;
+}
+.work{
+    color: lightgreen;
+}
+.academic {
+    color: lightseagreen;
+}
+h2 {
+    color: black;
+}
